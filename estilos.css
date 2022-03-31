@@ -1,12 +1,41 @@
 #texto{
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'lobster', cursive;
+    font-weight: 700;
+    color: blueviolet;
+    font-size: 30px;
+    
+    
 }
+
+#textq{
+    font-family: 'lobster', cursive;
+    font-weight: 500;
+
+}
+
+#textf{
+    font-family: 'lobster', cursive;
+    font-weight: 700;
+    background-color: rgb(0, 162, 255);
+}
+
+#textc{
+    font-family: 'lobster', cursive;
+    text-align: center; 
+    padding: 20px;
+    font-weight: 400;
+    color: rgb(0, 162, 255);
+
+}
+
+
 h5{
+    font-family: 'lobster', cursive;
+    font-weight: 600;
     font-size: 20px;
 }
 p{
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
 }
 section{
@@ -18,7 +47,15 @@ section{
     justify-content: center;
 }
 .h1{
+    font-family: 'lobster', cursive;
+    font-weight: 400;
+    color: rgb(0, 162, 255);
     text-align: center;
+}
+
+.h3{
+    font-family: 'lobster', cursive;
+  
 }
 .parrafo{
     font-family:'Times New Roman', Times, serif;
