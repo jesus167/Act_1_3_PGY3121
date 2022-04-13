@@ -75,3 +75,7 @@ section{
     padding: 10px;
     align-items: center;
 }
+
+button {
+    margin-top: 20px;
+}
